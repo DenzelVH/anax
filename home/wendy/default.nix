@@ -1,7 +1,6 @@
 {lib, ...}: {
   imports = [
     ./config
-    ./editors/vscode
     ./packages
     ./programs
     ./services
