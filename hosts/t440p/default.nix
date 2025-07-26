@@ -12,9 +12,7 @@
     ./services/gnome-keyring.nix
     ./services/greetd.nix
     ./services/gvfs.nix
-    ./services/mariadb.nix
     ./services/pipewire.nix
-    ./services/postgresql.nix
     ./virtualisation/containers.nix
     ./virtualisation/docker.nix
     ./virtualisation/podman.nix
