@@ -19,3 +19,4 @@ Anax is a set of configurations crafted for NixOS and Home Manager based on [rae
 - [ ] Change shell to Fish/Nushell
 - [ ] Change editor to helix & doom emacs
 - [ ] Change terminal to ghostty
+- [ ] Setup for Elixir, OCaml, CL
