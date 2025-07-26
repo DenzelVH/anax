@@ -1,6 +1,5 @@
 {
-  # https://github.com/raexera/yuki
-  description = "Yuki: NixOS and Home Manager Flake";
+  description = "Anax: NixOS and Home Manager Flake";
 
   outputs = inputs:
     inputs.flake-parts.lib.mkFlake {inherit inputs;} {

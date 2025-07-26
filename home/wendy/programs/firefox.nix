@@ -2,7 +2,7 @@
   programs.firefox = {
     enable = true;
 
-    profiles.raexera = {
+    profiles.wendy = {
       settings = {
         "browser.tabs.inTitlebar" = 0;
         "browser.urlbar.trimHttps" = true;
