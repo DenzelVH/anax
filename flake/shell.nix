@@ -5,7 +5,7 @@
     ...
   }: {
     devShells.default = pkgs.mkShell {
-      name = "yuki";
+      name = "t440p";
 
       shellHook = ''
         ${config.pre-commit.installationScript}
