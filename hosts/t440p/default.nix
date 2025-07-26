@@ -43,7 +43,6 @@
     hardware.bolt.enable = true;
   };
 
-  # TODO: Change to appropriate
-  # Intel Core i7-12700H (Alder Lake)
-  boot.kernelParams = ["i915.force_probe=46a6" "i915.enable_guc=3"];
+  # Intel Core i5-4210M
+  boot.kernelParams = ["i915.force_probe=0416" "i915.enable_guc=3"];
 }
