@@ -1,4 +1,5 @@
 {pkgs, ...}: {
+  # TODO: change to fish
   programs.zsh = {
     enable = true;
     enableCompletion = true;

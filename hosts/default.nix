@@ -61,9 +61,8 @@
         } (args.specialArgs or {});
       };
   in {
-    # Lenovo Yoga Slim 7 Pro X (14IAH7)
-    yuki = mkNixosSystem {
-      hostname = "yuki";
+    t440p = mkNixosSystem {
+      hostname = "t440p";
       system = "x86_64-linux";
       modules = [nixosModules homeModules];
     };

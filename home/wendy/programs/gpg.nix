@@ -3,7 +3,7 @@
     enable = true;
     homedir = "${config.xdg.dataHome}/gnupg";
     settings = {
-      default-key = "A987FE77C066A909";
+      default-key = "TODO: REPLACEME";
     };
   };
 }

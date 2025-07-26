@@ -11,6 +11,7 @@
     firewall = {
       enable = true;
       allowedTCPPorts = [
+        # TODO: cleanup
         8081
         4321
       ];

@@ -1,3 +1,4 @@
+# TODO: Replace with brave
 {
   programs.firefox = {
     enable = true;

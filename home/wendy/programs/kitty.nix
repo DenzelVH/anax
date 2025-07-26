@@ -1,3 +1,4 @@
+# TODO: replace with ghostty
 {config, ...}: {
   programs.kitty = {
     enable = true;

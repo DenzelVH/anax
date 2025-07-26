@@ -1,7 +1,6 @@
 {lib, ...}: {
   imports = [
     ./config
-    ./editors/vscode
     ./packages
     ./programs
     ./services
@@ -42,7 +41,7 @@
       xcolors = lib.mapAttrsRecursive (_: color: "#${color}") colors;
     };
 
-    wallpaper = ./wallpapers/chifuri-wallpaper.jpg;
+    wallpaper = ./wallpapers/nix-wallpaper.png;
   };
 
   wayland.windowManager.hyprland.settings = {

@@ -8,7 +8,6 @@
     ./kitty.nix
     ./lazygit.nix
     ./mpv.nix
-    ./obs-studio.nix
     ./ssh.nix
     ./zathura.nix
   ];
