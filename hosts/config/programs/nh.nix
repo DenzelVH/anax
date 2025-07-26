@@ -1,7 +1,7 @@
 {
   programs.nh = {
     enable = true;
-    flake = "/home/raexera/.yuki";
+    flake = "/home/wendy/dotflakes";
     clean = {
       enable = true;
       extraArgs = "--keep-since 1w";
