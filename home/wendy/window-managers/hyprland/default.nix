@@ -3,7 +3,7 @@
     ./config/binds.nix
     ./config/rules.nix
     ./config/settings.nix
-    ./programs/anyrun.nix
+    # ./programs/anyrun.nix
     ./programs/waybar.nix
     ./services/cliphist.nix
     ./services/dunst.nix
