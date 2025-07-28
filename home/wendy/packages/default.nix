@@ -15,7 +15,6 @@
     act
     amberol
     bc
-    beekeeper-studio
     brave
     celluloid
     cloudflared
